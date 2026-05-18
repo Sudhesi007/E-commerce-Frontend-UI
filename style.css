@@ -1,0 +1,52 @@
+.head1{
+    text-align: center;
+    background-color:navy;
+    color: white;
+    
+}
+.head2{
+    
+    display: inline-block;
+    margin-left: 300;
+    margin-top: 100;
+    
+}
+.div2{
+    display: inline-block;
+    
+}
+
+.img1{
+    margin-left: 500;
+    height: 300;
+    width: 500;
+}
+.img2{
+    display: inline-block;
+    margin-top: 100;
+    margin-left: 500;
+}
+.ul1{
+    margin-left: 100;
+    display: inline-block;
+    margin-bottom: 50;
+    
+}
+.img3{
+    height: 300;
+    width: 200;
+    display: inline-block;
+    margin-top: 100;
+    margin-left: 500;
+}
+.ul2{
+    margin-left: 100;
+    display: inline-block;
+    margin-bottom: 50;
+    
+    
+    
+}
+.a1{
+    margin-top: 20;
+}
